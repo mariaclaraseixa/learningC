@@ -12,7 +12,6 @@
 * Tarefa: ler https://homepages.dcc.ufmg.br/~rodolfo/aedsi-2-10/Funcoes/funcoes.html
 *
 * @author: Maria Clara Seixa Scheffel
-* @email: mariaclara.seixa at gmail
 */
 
 
