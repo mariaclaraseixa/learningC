@@ -41,6 +41,8 @@
 *           scanf &temperaturaDeFusao
 *           NAO COLOQUE ACENTO EM NOME DE VARIÁVEL... ISSO É O 1o 
 *           AVISO... NO SEGUNDO HAVERÁ CONSEQUÊNCIAS...
+*
+* @author Maria Clara Seixa Scheffel
 */
 
 #define SOLIDO  0
